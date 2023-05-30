@@ -183,7 +183,7 @@ nav ul li a:hover::after{
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-around;
-    align-items: flex-end;
+    align-items: center;
 }
 .work:hover img{
     transform: scale(1.1);
